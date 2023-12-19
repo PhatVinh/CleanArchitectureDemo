@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ETuhveXKBPrJWtQmWYGMcr7Lfd53bIbCr9bnirHIfmIJyGg2/oO4mU0DMJmoG0mmGJbu+7stDo1bT0/3+CAobw==",
+  "dgSpecHash": "DUr1tK8YXHnDybTyiy367I1tjemKnK27volguLfzD9RUJu+W3F8m58jmQJ7I8O3smBcCPmRraTqgKFwLFBfiwA==",
   "success": true,
-  "projectFilePath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+  "projectFilePath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phat0\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\phat0\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

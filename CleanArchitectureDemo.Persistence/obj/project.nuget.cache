@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Qlp/DiP1mFGi3hDYXxZexI40ZISBLsHxKoVPE4WcYQeISWaA8ULgj+WttUtsoznGEbZLsup+Q3fDMSiMmJTzw==",
+  "dgSpecHash": "ztzddbl3gtL/RC6XuzNHtP6786aNzSstxvDPYprXD1+rdVi/jr5XJZzlBxWbcxrKXqV4uc2FeebjQf3qMigtLw==",
   "success": true,
-  "projectFilePath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Persistence\\CleanArchitectureDemo.Persistence.csproj",
+  "projectFilePath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Persistence\\CleanArchitectureDemo.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phat0\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\phat0\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

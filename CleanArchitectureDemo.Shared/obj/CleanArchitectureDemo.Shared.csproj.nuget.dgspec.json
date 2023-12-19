@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj": {}
+    "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj": {}
   },
   "projects": {
-    "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj": {
+    "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj",
+        "projectUniqueName": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj",
         "projectName": "CleanArchitectureDemo.Shared",
-        "projectPath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj",
+        "projectPath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Shared\\CleanArchitectureDemo.Shared.csproj",
         "packagesPath": "C:\\Users\\phat0\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Shared\\obj\\",
+        "outputPath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

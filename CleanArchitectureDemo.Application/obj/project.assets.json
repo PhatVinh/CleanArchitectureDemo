@@ -837,11 +837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+      "projectUniqueName": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
       "projectName": "CleanArchitectureDemo.Application",
-      "projectPath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+      "projectPath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
       "packagesPath": "C:\\Users\\phat0\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Application\\obj\\",
+      "outputPath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

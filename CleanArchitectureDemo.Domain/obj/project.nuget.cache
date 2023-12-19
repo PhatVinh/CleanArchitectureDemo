@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JtQLyDwsNZRShUCi2WRE/A+pawg+RfNeWTza8lPNtK+NeTr0W1mfpOQaqmPnl7Zyz21QvvdfSupp/a1+NrHg2A==",
+  "dgSpecHash": "6NuKcI869Xz5xvoNKCykAyG2fFA8emDU0n4xGn3Z/YswV85Z/P5fUGElS+pHXSmTnltcCX0yQv730jO13LRI4g==",
   "success": true,
-  "projectFilePath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
+  "projectFilePath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phat0\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\phat0\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

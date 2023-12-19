@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
       "projectName": "CleanArchitectureDemo.Infrastructure",
-      "projectPath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
+      "projectPath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\phat0\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Infrastructure\\obj\\",
+      "outputPath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

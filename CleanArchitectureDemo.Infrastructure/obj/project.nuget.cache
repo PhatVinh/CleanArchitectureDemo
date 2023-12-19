@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IhuSdZY1o7SWxS9YSrhx3MJroILURO4ma040TKi9yS0/XAsnzOuAVzO7gyIgGfUGJXerUrF2L1Zk6Z8DbQp1Cg==",
+  "dgSpecHash": "lA6wTdhK/bWiPrZ+YDU79W4CbJ3/D6YINItzeur9jyuzxD2BWrlLnHKBdjCJiQ4VgvEVtKzKizKALq8IepD9ug==",
   "success": true,
-  "projectFilePath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
+  "projectFilePath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.WebAPI\\CleanArchitectureDemo.WebAPI.csproj": {}
+    "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.WebAPI\\CleanArchitectureDemo.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.WebAPI\\CleanArchitectureDemo.WebAPI.csproj": {
+    "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.WebAPI\\CleanArchitectureDemo.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.WebAPI\\CleanArchitectureDemo.WebAPI.csproj",
+        "projectUniqueName": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.WebAPI\\CleanArchitectureDemo.WebAPI.csproj",
         "projectName": "CleanArchitectureDemo.WebAPI",
-        "projectPath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.WebAPI\\CleanArchitectureDemo.WebAPI.csproj",
+        "projectPath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.WebAPI\\CleanArchitectureDemo.WebAPI.csproj",
         "packagesPath": "C:\\Users\\phat0\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo\\C#\\CleanArchitecture\\ToDoApp\\CleanArchitectureDemo.WebAPI\\obj\\",
+        "outputPath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
