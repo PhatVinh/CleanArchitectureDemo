@@ -315,6 +315,19 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "CleanArchitectureDemo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MediatR": "12.2.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArchitectureDemo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitectureDemo.Domain.dll": {}
+        }
       }
     }
   },
@@ -818,12 +831,18 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "CleanArchitectureDemo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitectureDemo.Domain/CleanArchitectureDemo.Domain.csproj",
+      "msbuildProject": "../CleanArchitectureDemo.Domain/CleanArchitectureDemo.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "AutoMapper >= 12.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "CleanArchitectureDemo.Domain >= 1.0.0",
       "FluentValidation >= 11.8.1",
       "FluentValidation.AspNetCore >= 11.3.0",
       "MediatR >= 12.2.0",
@@ -862,7 +881,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj": {
+              "projectPath": "D:\\Demo\\C#\\CleanArchitecture\\CleanArchitectureDemo\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

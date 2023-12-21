@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitectureDemo.Domain.Entities
+namespace CleanArchitectureDemo.Application.Interfaces.Repositories
 {
-	public class Country
+	internal interface IGenericRepository
 	{
 	}
 }

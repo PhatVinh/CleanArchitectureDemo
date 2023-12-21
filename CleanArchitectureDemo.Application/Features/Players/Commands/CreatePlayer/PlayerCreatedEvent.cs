@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitectureDemo.Domain.Entities
+namespace CleanArchitectureDemo.Application.Features.Players.Commands.CreatePlayer
 {
-	public class Country
+	internal class PlayerCreatedEvent
 	{
 	}
 }
